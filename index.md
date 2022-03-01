@@ -1,7 +1,11 @@
 ## Introduction
 
 
-I am Yaobin Chen, a PhD student in SCMS, FDU from 2021. And I have get my bachelor's degree from USTC in 2021. I major in Combinatorics and graph theory. Welcome to communicate with me!(e-mail:ybchen21@m.fudan.edu.cn)
+I am Yaobin Chen, a PhD student in SCMS, FDU from 2021. 
+
+And I have get my bachelor's degree from USTC in 2021. 
+
+I major in Combinatorics and graph theory. Welcome to communicate with me!(e-mail:ybchen21@m.fudan.edu.cn)
 
 ## Teaching assiatant experience 
 1. 2020, Spring Abastract Algebra, USTC
