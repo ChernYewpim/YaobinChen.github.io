@@ -12,14 +12,15 @@ I major in Combinatorics and graph theory. Welcome to communicate with me!(e-mai
 2. 2020, Fall Basic Algebra, USTC
 3. 2021, Fall Mathmatic Analysis, FDU
 
+
 ## Publication
 [Proper orientations and Proper chromatic number](https://arxiv.org/abs/2110.07005), Yaobin Chen, Bojan Mohar and Hehui Wu, Subimitted
 
 
-### Research Interests: 
+## Research Interests: 
 Graph theory, Combinatorics and Optimazation 
 
-### Something about graph theory
+## Something about graph theory
 Be continued
 
 
