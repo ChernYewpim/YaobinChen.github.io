@@ -18,7 +18,7 @@ I major in Combinatorics and graph theory. Welcome to communicate with me!(e-mai
 ### Research Interests: 
 Graph theory, Combinatorics and Optimazation 
 
-### Some thing about graph theory
+### Something about graph theory
 Be continued
 
 
