@@ -14,7 +14,7 @@ I major in Combinatorics and Graph theory. Welcome to communicate with me!(e-mai
 
 
 ## Publication
-[Proper orientations and Proper chromatic number](https://arxiv.org/abs/2110.07005),2021, Yaobin Chen, Bojan Mohar and Hehui Wu, Submitted
+[Proper orientations and Proper chromatic number](https://arxiv.org/abs/2110.07005),2021, Yaobin Chen, Bojan Mohar and Hehui Wu, JCTB, Accepted
 
 
 [List-avoiding orientations](https://arxiv.org/abs/2209.09107),2022,Peter Bradshaw, Yaobin Chen, Hao Ma, Bojan Mohar, Hehui Wu, Submitted
